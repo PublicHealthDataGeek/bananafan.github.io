@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## About me
 
-You can use the [editor on GitHub](https://github.com/bananafan/bananafan.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am studying for a PhD in Data Analytics in Society at the University of Leeds in the [Leeds Institute of Data Analytics](https://lida.leeds.ac.uk/study-training/datacdt/).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am doing this as part of my training to be a [Consultant in Public Health](https://www.healthcareers.nhs.uk/explore-roles/public-health/roles-public-health/public-health-consultants-and-specialists).
+
+My PhD will involve looking at the impact of investment in cycling infrastructure on the normalisation of cycling in London.  My main supervisor is [Dr Roger Beecham](https://www.geog.leeds.ac.uk/people/r.beecham).  
 
 ### Markdown
 
